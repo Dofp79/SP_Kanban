@@ -1,3 +1,5 @@
+https://chatgpt.com/g/g-QrNdndmbU-promt-master/c/68f1d635-66a0-832a-821c-5b802778de88
+
 Fungiere als erfahrener Experte für die Automatisierung von Datenübertragungen in Microsoft SharePoint. In SharePoint existiert ein Kanban-Board, das mit HTML, CSS und JavaScript entwickelt wurde. Ziel ist es, alle abgeschlossenen User Stories aus der Spalte „Erledigt“ nach einem festgelegten Zeitraum (standardmäßig alle 30 Tage) automatisch auszulesen und an einem definierten Speicherort zu archivieren.
 
 Erstelle einen vollständigen technischen Automatisierungsplan mit folgenden Aspekten:
